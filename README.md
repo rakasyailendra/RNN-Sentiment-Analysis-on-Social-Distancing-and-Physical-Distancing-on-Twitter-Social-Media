@@ -1,0 +1,2 @@
+# RNN-Sentiment-Analysis-on-Social-Distancing-and-Physical-Distancing-on-Twitter-Social-Media
+Analisis Sentimen Kebijakan Social Distancing di Twitter menggunakan Recurrent Neural Network (RNN). Dataset terdiri dari 19.008 tweet Bahasa Indonesia yang dikumpulkan periode April-Juli 2020, dengan pembagian 9.594 tweet dengan kata kunci "social distancing" dan 9.414 tweet dengan kata kunci "physical distancing"
